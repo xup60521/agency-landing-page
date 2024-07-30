@@ -18,7 +18,8 @@ export default {
                 c_Grayish_blue: "hsl(210, 4%, 67%)",
             },
             fontFamily: {
-                barlow: ["Barlow", "sans-serif"]
+                barlow: ["Barlow", "sans-serif"],
+                frounces: ["Fraunces", "serif"]
             }
         },
     },
